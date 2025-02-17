@@ -65,8 +65,7 @@ The analysis is based on the following reports:
 
 ## 🚀 Technologies Used
 - **Excel** for data storage and cleaning.
-- **Python (Pandas, Matplotlib, Seaborn)** for data analysis and visualization.
-- **Power BI** for interactive dashboards and insights.
+
 
 ## 💡 Future Scope
 - **Advanced Predictive Analytics** to forecast sales trends.
