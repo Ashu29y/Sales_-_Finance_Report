@@ -1,7 +1,7 @@
 # Customer and Market Performance Analysis 📊
 
 ## 📌 Project Overview
-This project analyzes customer performance, market performance vs. targets, and quarterly profit and loss (P&L) statements for **AtliQ Hardwares**. The data spans multiple years (2019-2021), providing insights into **sales growth, market trends, and financial health**.
+This project analyzes **customer performance, market performance vs. targets, and quarterly profit and loss (P&L) statements** for **AtliQ Hardwares**. The data spans **2019-2021**, offering insights into **sales growth, market trends, and financial health**.
 
 ## 📊 Data Sources
 The analysis is based on the following reports:
@@ -16,17 +16,17 @@ The analysis is based on the following reports:
 - Identifies **countries that exceeded or missed their targets**.
 - Highlights the **percentage of target achievement** for each region.
 
-### 🔹 Quarterly Profit & Loss Statement
-- Provides insights into **net sales, cost of goods sold (COGS), and gross margin** over different fiscal years.
-- Analyzes **profitability trends across quarters**.
-- Tracks **Gross Margin % trends** over three years.
+### 🔹 Yearly Profit & Loss (P&L) Analytics
+- Provides **Net Sales, Cost of Goods Sold (COGS), and Gross Margin** trends.
+- Examines **YoY percentage changes in financial metrics**.
+- Analyzes **profitability trends across fiscal years**.
 
 ---
 
 ## 🔎 Key Insights
 
 ### 📈 Customer Performance Analysis
-- **Total Sales Revenue** grew from **$87.5M (2019) to $598.9M (2021)**, a **304.5% increase**.
+- **Total Sales Revenue** increased from **$87.5M (2019) to $598.9M (2021)**, a **304.5% growth**.
 - **Top-performing customers**:
   - **AtliQ Exclusive**: Grew from **$9.6M (2019) to $61.1M (2021)** (+345.8%).
   - **Amazon**: Increased from **$12.2M to $82.1M** (+218.9%).
@@ -41,39 +41,41 @@ The analysis is based on the following reports:
   - **Canada**: -14.5%
   - **Spain**: -14.1%
 
-### 💰 Quarterly P&L Analysis
-#### **Net Sales Growth**
-| Year | Net Sales |
-|------|------------|
-| 2019 | $87.5M |
-| 2020 | $196.7M |
-| 2021 | $598.9M |
+---
 
-#### **Gross Margin Trends**
-| Year | Gross Margin % |
-|------|--------------|
-| 2019 | 41.43% |
-| 2020 | 37.28% |
-| 2021 | 36.43% |
+## 💰 Yearly Profit & Loss (P&L) Analytics
+### **Net Sales Growth**
+| Year  | Net Sales | YoY Growth |
+|-------|----------|------------|
+| 2019  | $87.5M   | -          |
+| 2020  | $196.7M  | **+125%**  |
+| 2021  | $598.9M  | **+204.48%** |
 
-#### **Cost of Goods Sold (COGS)**
-| Year | COGS |
-|------|------|
-| 2019 | $51.2M |
-| 2020 | $123.4M |
-| 2021 | $380.7M |
+### **Cost of Goods Sold (COGS)**
+| Year  | COGS     | YoY Growth |
+|-------|----------|------------|
+| 2019  | $51.2M   | -          |
+| 2020  | $123.4M  | **+141%**  |
+| 2021  | $380.7M  | **+208.59%** |
 
-#### **Observations**
-- Margins **declined slightly** due to increased **COGS**.
-- **2020 saw the highest YoY growth in net sales (125%)**.
-- **2021 maintained stable but lower margins (~36.43%)**.
+### **Gross Margin Trends**
+| Year  | Gross Margin | Gross Margin % | YoY Growth |
+|-------|-------------|----------------|------------|
+| 2019  | $36.2M      | 41.43%         | -          |
+| 2020  | $73.3M      | 37.28%         | **+102.2%** |
+| 2021  | $218.2M     | 36.43%         | **+197.55%** |
+
+### **Observations**
+- **Strong sales growth**, but **margins declined** due to **rising COGS**.
+- **2020 saw the highest YoY net sales growth (125%)**.
+- **2021 had stable but lower margins (~36.43%)**, indicating **cost challenges**.
 
 ---
 
 ## 📈 Conclusion
-- **Strong sales growth**, but some **regions failed to meet targets**.
-- **Cost control and margin optimization** are necessary for long-term **profitability**.
-- **Amazon and Flipkart** are **key revenue drivers**, highlighting the importance of **e-commerce**.
+- **Sales growth is strong**, but some **regions underperformed against targets**.
+- **Cost control & margin optimization** are crucial for long-term **profitability**.
+- **Amazon & Flipkart are major revenue drivers**, emphasizing **e-commerce strength**.
 
 ---
 
@@ -95,12 +97,6 @@ The analysis is based on the following reports:
 
 ---
 
-## 📜 License
-This project is for **educational and analytical purposes**.
-
----
-
 ## 🔗 Contact
 For any queries, feel free to reach out.
-
 
